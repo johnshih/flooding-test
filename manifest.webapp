@@ -1,0 +1,26 @@
+{
+  "name": "Flood Test",
+  "description": "Firefox flooding test",
+  "launch_path": "/flood-test/",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://johnshih.github.com/"
+  },
+  "orientation": "portrait-primary",
+  "locales": {
+    "en-US": {
+      "name": "Flood Test",
+      "description": "Web app template"
+    },
+    "zh-TW": {
+      "name": "Flood Test",
+      "description": "Web app template"
+    }
+  },
+  "permissions": {
+    "telephony":{}
+  },
+  "default_locale": "en-US",
+  "icons": {
+  }
+}
